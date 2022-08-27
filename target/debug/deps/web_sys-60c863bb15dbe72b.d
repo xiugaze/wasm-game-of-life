@@ -1,0 +1,10 @@
+/home/xiugaze/Documents/wasm-game-of-life/target/debug/deps/web_sys-60c863bb15dbe72b.rmeta: /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/lib.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/mod.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_Event.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_EventTarget.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_MessageEvent.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_Worker.rs
+
+/home/xiugaze/Documents/wasm-game-of-life/target/debug/deps/web_sys-60c863bb15dbe72b.d: /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/lib.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/mod.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_Event.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_EventTarget.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_MessageEvent.rs /home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_Worker.rs
+
+/home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/lib.rs:
+/home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/mod.rs:
+/home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_Event.rs:
+/home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_EventTarget.rs:
+/home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_MessageEvent.rs:
+/home/xiugaze/.cargo/registry/src/github.com-1ecc6299db9ec823/web-sys-0.3.59/src/features/gen_Worker.rs:
