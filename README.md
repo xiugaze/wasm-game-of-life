@@ -4,11 +4,12 @@ This project is a work-in-progress implementation of Conway's Game of Life as a 
 
 ## Usage
 '''
-cargo build
-cd www
-npm install
-npm run start
-
+> cargo build
+> wasm-pack build
+> cd www
+> npm install
+> npm run start
+'''
 
 
 
